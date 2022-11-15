@@ -17,3 +17,7 @@ TASK 1
 4_devpost profile
 
    "https://devpost.com/mnsrajd?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"
+
+TASK 2:
+
+Youtube video: https://youtu.be/U72b6KuJ4GQ
